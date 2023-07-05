@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FacialScan/static/css/main.510ff824.css",
+    "main.js": "/FacialScan/static/js/main.3c6b5bf4.js",
+    "index.html": "/FacialScan/index.html",
+    "main.510ff824.css.map": "/FacialScan/static/css/main.510ff824.css.map",
+    "main.3c6b5bf4.js.map": "/FacialScan/static/js/main.3c6b5bf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510ff824.css",
+    "static/js/main.3c6b5bf4.js"
+  ]
+}
